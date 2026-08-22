@@ -6,8 +6,8 @@ Prompt Optimizer is a Windows desktop app that rewrites your prompts into leaner
 
 It runs entirely on your machine. No API key, no network calls, no sending your prompts to a third party.
 
-<!-- Save your screenshot as docs/screenshot.png -->
-![Prompt Optimizer](docs/screenshot.png)
+<img width="1918" height="1012" alt="image" src="https://github.com/user-attachments/assets/f1eb763d-476b-4ceb-961c-cabd9bf3ed55" />
+
 
 ---
 
