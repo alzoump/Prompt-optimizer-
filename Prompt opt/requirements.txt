@@ -1,0 +1,3 @@
+# Optional but recommended - exact cl100k token counts.
+# Without it the app falls back to a word-based estimate.
+tiktoken>=0.7
