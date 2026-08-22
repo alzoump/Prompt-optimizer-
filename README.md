@@ -6,7 +6,8 @@ Prompt Optimizer is a Windows desktop app that rewrites your prompts into leaner
 
 It runs entirely on your machine. No API key, no network calls, no sending your prompts to a third party.
 
-<img width="1918" height="1012" alt="image" src="https://github.com/user-attachments/assets/f1eb763d-476b-4ceb-961c-cabd9bf3ed55" />
+<img width="1919" height="1015" alt="image" src="https://github.com/user-attachments/assets/2962d376-35e2-444d-b863-07b932a728af" />
+
 
 
 ---
@@ -23,9 +24,9 @@ Prompt Optimizer applies a set of deterministic rewrite rules to strip that over
 
 > Hello, I want you to create a txt file on the desktop that will include the ingredients of a good prompt
 
-**After** — 13 tokens
+**After** — 9 tokens
 
-> Create a txt on the desktop with the ingredients of a good prompt
+> Create desktop txt: ingredients of a good prompt
 
 **9 tokens saved (40.9%).** Changes applied: stripped opener, `"txt file" → "txt"`, `"that will include" → "with"`.
 
